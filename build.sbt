@@ -10,4 +10,4 @@ libraryDependencies += "org.apache.pdfbox" % "pdfbox" % "2.0.23"
 
 libraryDependencies += "com.github.scopt" %% "scopt" % "4.0.1"
 
-assemblyJarName in assembly := "ende-pdf.jar"
+assemblyJarName in assembly := "deen-pdf.jar"
