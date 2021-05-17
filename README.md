@@ -1,6 +1,8 @@
 # deen-pdf
 deen pdf is scala based test, decrypt and encrypt pdf tool
 
+[Download Jar](https://github.com/xh-dev/deen-pdf/blob/master/assembly/deen-pdf.jar?raw=true)
+
 ```
 Usage: deen-pdf.jar [test|decrypt|encrypt] [options]
   -in, --input-file <value>   input pdf file path
